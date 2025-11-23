@@ -4,5 +4,4 @@
 # Links
 YT: https://www.youtube.com/@AndrewHIMFR
 TikTok: https://www.tiktok.com/@._._._._._.._._._0
-
-Follow me!
+DO IT RN BAD BOY
