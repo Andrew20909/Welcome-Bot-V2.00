@@ -1,0 +1,15 @@
+{
+  "name": "Hi,bot",
+  "version": "0.0.1",
+  "description": "A simple Discord bot that sends welcome embeds",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@PanckakeTheDragon, and @AndrewI_I",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "dotenv": "^16.6.1"
+  }
+}
